@@ -1,0 +1,6 @@
+01-socket-server/node_modules
+02-bandnames-app/bandnames-server/node_modules
+02-bandnames-app/bandnames/node_modules
+03-tickets-app/ticketapp/node_modules
+03-tickets-app/ticketserver/node_modules
+05-chat-app/chat-backend/node_modules
