@@ -22,7 +22,7 @@ const UsuarioSchema = Schema({
 })
 
 
-UsuarioSchema.method('to-json', function () {
+UsuarioSchema.method('toJSON', function () {
 
     const { __v, _id, password, ...object } = this.toObject()
 
